@@ -1,0 +1,73 @@
+h1{
+    color: blue;
+    text-decoration: red dotted underline;
+}
+ #box{
+    color: blueviolet;
+ }
+ body{
+    background-color: aquamarine;
+ }
+ header{
+    text-align: center;
+ }
+ nav{
+    text-align: right;
+ }
+ #h1{
+   font-weight: 900;
+   animation-name: soumik;
+   animation-duration: 3s;
+    animation-iteration-count: 3;
+    @keyframes soumik {
+      from{
+        width:200px;
+      }
+      to{
+        width: 400px;
+      }
+    }
+ }
+ #ik{
+   font-variant: inherit;
+ }
+ .navi{
+   color:white;
+   background-color: rgb(180, 180, 190);
+   border-radius: 30px;
+   border-color: wheat;
+ }
+ .navi ul{
+   overflow: auto;
+ }
+ .navi li{
+   float: left;
+   list-style: none;
+   margin: 13px 20px;
+ }
+ body{
+    background-image: url(pexels.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+ #kl.li{
+   background-color: black;
+   float:left;
+   margin: 13px 20px;
+ }
+ .nbm{
+  background-color: blue;
+  animation-name: ecm;
+  animation-duration: 4s;
+  animation-direction: reverse;
+ }
+ @keyframes ecm {
+  from{
+    background-color: blue;
+  }
+  to{
+    background-color: blueviolet;
+  }
+ }

@@ -1,0 +1,36 @@
+body{
+    background-image: url(hgj.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bn{
+    border-radius: 50px;
+    border: 0;
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 2rem 3;
+    text-transform: uppercase;
+    white-space: nowrap;
+    color:white;
+    background-color: blue;
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+.nm{
+    border-radius: 50px;
+    border: 0;
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 2rem 3;
+    text-transform: uppercase;
+    white-space: nowrap;
+    color:white;
+    background-color: blue;
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
